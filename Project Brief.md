@@ -1,3 +1,7 @@
+#### Quick Links
+- [[Software]]
+- [[Hardware]]
+
 ## Empathise
 With the rise of IoT (Internet of Things) devices, the world around us is becoming increasingly automated. This type of automation is most prevalent in indoor environments. Today, most of this automation is in the form of a large variety of highly specialised devices. This can present an issue in larger indoor areas, where it is simply impractical to install so many devices, especially when they are only used occasionally. What we need is an affordable, yet highly versatile IoT device that can traverse, navigate, and perform manipulation tasks in large indoor environments.
 
