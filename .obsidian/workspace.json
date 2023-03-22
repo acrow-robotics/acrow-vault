@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Software/ROS Stack.md",
+                "file": "Project Brief.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Software/ROS Stack.md",
+                "file": "Project Brief.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Software/ROS Stack.md",
+                "file": "Project Brief.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Software/ROS Stack.md"
+                "file": "Project Brief.md"
               }
             }
           }
@@ -162,11 +162,11 @@
   },
   "active": "3e512763a92b9784",
   "lastOpenFiles": [
+    "Hardware/Hardware.md",
+    "Software/ROS Stack.md",
     "Software/Software.md",
     "Project Brief.md",
-    "Software/ROS Stack.md",
     "Software/Operating System.md",
-    "Hardware/Hardware.md",
     "Todo.md",
     "Hardware",
     "Software"
